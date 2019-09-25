@@ -2,7 +2,7 @@
 
 ## Introduction
 This program is a relational database system to support the operations of an online travel reservation system. It is implemented by HTML for the user interface, MySQL for the database server, and Java, JDBC for connectivity between the user interface and the database server. 
-[AirSite](http://ec2-3-15-158-105.us-east-2.compute.amazonaws.com:8080/Airsite/)
+[Let's go to AirSite](http://ec2-3-15-158-105.us-east-2.compute.amazonaws.com:8080/Airsite/)
 
 ## Getting Started
 
